@@ -1,0 +1,1251 @@
+1
+00:00:00,080 --> 00:00:01,600
+All right, I'm going to be completely
+
+2
+00:00:01,600 --> 00:00:03,760
+honest with you. The tech job market
+
+3
+00:00:03,760 --> 00:00:06,160
+right now isn't cooked. The standard is
+
+4
+00:00:06,160 --> 00:00:08,240
+just raised significantly. The required
+
+5
+00:00:08,240 --> 00:00:09,679
+talent and skills to get you an
+
+6
+00:00:09,679 --> 00:00:11,120
+entry-level software engineering role
+
+7
+00:00:11,120 --> 00:00:13,200
+paying $90,000 a year is completely
+
+8
+00:00:13,200 --> 00:00:15,920
+different now compared to 10 years ago.
+
+9
+00:00:15,920 --> 00:00:17,680
+I've been watching developers with five
+
+10
+00:00:17,680 --> 00:00:20,000
+plus years of experience get rejected
+
+11
+00:00:20,000 --> 00:00:22,160
+from junior positions. I've seen boot
+
+12
+00:00:22,160 --> 00:00:24,640
+camp graduates with perfect portfolios
+
+13
+00:00:24,640 --> 00:00:27,439
+go months without a single interview.
+
+14
+00:00:27,439 --> 00:00:29,279
+The reason is because everyone is using
+
+15
+00:00:29,279 --> 00:00:32,000
+the same outdated methods that just
+
+16
+00:00:32,000 --> 00:00:34,480
+don't work today. I'm not going to get
+
+17
+00:00:34,480 --> 00:00:36,320
+into it in this video. If you want to
+
+18
+00:00:36,320 --> 00:00:38,320
+know more about what works today, you
+
+19
+00:00:38,320 --> 00:00:41,120
+can watch my other videos.
+
+20
+00:00:41,120 --> 00:00:42,800
+I want to talk about a different
+
+21
+00:00:42,800 --> 00:00:45,040
+opportunity, a different path software
+
+22
+00:00:45,040 --> 00:00:47,120
+engineers can take to make same income
+
+23
+00:00:47,120 --> 00:00:50,239
+as a normal dev job. Wilts also
+
+24
+00:00:50,239 --> 00:00:51,840
+experienced the location and time
+
+25
+00:00:51,840 --> 00:00:53,600
+freedom that everyone seems to be
+
+26
+00:00:53,600 --> 00:00:56,960
+working towards since co. What nobody's
+
+27
+00:00:56,960 --> 00:00:58,640
+talking about is while everyone's
+
+28
+00:00:58,640 --> 00:01:01,359
+fighting over the same shrinking pool of
+
+29
+00:01:01,359 --> 00:01:03,600
+traditional tech jobs, there's this
+
+30
+00:01:03,600 --> 00:01:06,080
+massive opportunity sitting right in
+
+31
+00:01:06,080 --> 00:01:07,760
+front of us that most developers
+
+32
+00:01:07,760 --> 00:01:10,400
+completely ignore. In the next 10
+
+33
+00:01:10,400 --> 00:01:13,119
+minutes or so, I'll break down why
+
+34
+00:01:13,119 --> 00:01:16,159
+freelance devs are making a killing and
+
+35
+00:01:16,159 --> 00:01:18,240
+how you can do the same to reclaim
+
+36
+00:01:18,240 --> 00:01:21,200
+control of time and income in a way
+
+37
+00:01:21,200 --> 00:01:22,880
+that's different to the traditional
+
+38
+00:01:22,880 --> 00:01:26,000
+path. I know my whole channel has been
+
+39
+00:01:26,000 --> 00:01:28,400
+about landing tech jobs, but what you
+
+40
+00:01:28,400 --> 00:01:30,960
+probably didn't know was I was also a
+
+41
+00:01:30,960 --> 00:01:33,200
+freelance software engineer, too. As
+
+42
+00:01:33,200 --> 00:01:35,040
+nice as it is to have a stable income
+
+43
+00:01:35,040 --> 00:01:36,880
+from a traditional job and normal
+
+44
+00:01:36,880 --> 00:01:39,520
+9-to-five hours, freelancing also has
+
+45
+00:01:39,520 --> 00:01:42,479
+its pros, too. You work as much as you
+
+46
+00:01:42,479 --> 00:01:44,960
+want, work whatever hours you want, and
+
+47
+00:01:44,960 --> 00:01:47,439
+technically have no income cap. And with
+
+48
+00:01:47,439 --> 00:01:49,280
+how brutally competitive the tech job
+
+49
+00:01:49,280 --> 00:01:52,000
+market is now, with companies laying off
+
+50
+00:01:52,000 --> 00:01:53,920
+experienced developers while
+
+51
+00:01:53,920 --> 00:01:56,880
+simultaneously posting job listings they
+
+52
+00:01:56,880 --> 00:01:59,680
+never intend to fill. with AI tools
+
+53
+00:01:59,680 --> 00:02:01,680
+making employers think they need fewer
+
+54
+00:02:01,680 --> 00:02:04,159
+developers with the ones that are hiring
+
+55
+00:02:04,159 --> 00:02:05,920
+wanting entry-level developers to have
+
+56
+00:02:05,920 --> 00:02:08,479
+five plus years experience even though
+
+57
+00:02:08,479 --> 00:02:10,319
+that doesn't really make sense.
+
+58
+00:02:10,319 --> 00:02:13,280
+Statistically, it's impossible for every
+
+59
+00:02:13,280 --> 00:02:15,520
+aspiring dev to get a role working at a
+
+60
+00:02:15,520 --> 00:02:18,080
+big firm unless you got me as a mentor.
+
+61
+00:02:18,080 --> 00:02:20,000
+I have had students come to me with
+
+62
+00:02:20,000 --> 00:02:22,720
+solid portfolios, great technical
+
+63
+00:02:22,720 --> 00:02:24,560
+skills, who've been job hunting for
+
+64
+00:02:24,560 --> 00:02:27,120
+eight plus months with nothing to show
+
+65
+00:02:27,120 --> 00:02:29,360
+for it. Not because they're not good
+
+66
+00:02:29,360 --> 00:02:31,920
+enough, but because they're playing a
+
+67
+00:02:31,920 --> 00:02:34,160
+rigged game. Meanwhile, I've been
+
+68
+00:02:34,160 --> 00:02:36,000
+quietly freelancing on the side for
+
+69
+00:02:36,000 --> 00:02:39,280
+years. During my time freelancing, I was
+
+70
+00:02:39,280 --> 00:02:42,400
+making $15,000 in pure take-home from
+
+71
+00:02:42,400 --> 00:02:44,800
+freelance projects, working maybe 20
+
+72
+00:02:44,800 --> 00:02:47,200
+hours total. What surprised me was that
+
+73
+00:02:47,200 --> 00:02:49,040
+small businesses are desperate for
+
+74
+00:02:49,040 --> 00:02:51,200
+developers. While big tech is laying
+
+75
+00:02:51,200 --> 00:02:54,000
+people off, every local business needs a
+
+76
+00:02:54,000 --> 00:02:56,959
+website, an app, some kind of digital
+
+77
+00:02:56,959 --> 00:02:59,200
+solution. They have money, they have
+
+78
+00:02:59,200 --> 00:03:01,200
+problems, and they don't care if you
+
+79
+00:03:01,200 --> 00:03:03,280
+went to Stanford or learn to code last
+
+80
+00:03:03,280 --> 00:03:06,080
+year. They just want someone who can
+
+81
+00:03:06,080 --> 00:03:08,480
+solve their problems professionally. But
+
+82
+00:03:08,480 --> 00:03:10,319
+here's where most people get this
+
+83
+00:03:10,319 --> 00:03:12,800
+completely wrong. Everyone thinks
+
+84
+00:03:12,800 --> 00:03:15,440
+freelancing is about competing on price
+
+85
+00:03:15,440 --> 00:03:18,400
+on Upwork. charging $15 an hour to build
+
+86
+00:03:18,400 --> 00:03:20,560
+someone's WordPress site. That's not
+
+87
+00:03:20,560 --> 00:03:23,280
+freelancing. That's digital slavery.
+
+88
+00:03:23,280 --> 00:03:25,360
+Real freelancing is about becoming the
+
+89
+00:03:25,360 --> 00:03:27,599
+technical co-founder these businesses
+
+90
+00:03:27,599 --> 00:03:30,319
+can't afford to hire full-time. It's
+
+91
+00:03:30,319 --> 00:03:32,239
+about packaging your skills into
+
+92
+00:03:32,239 --> 00:03:34,640
+solutions, not selling your time by the
+
+93
+00:03:34,640 --> 00:03:36,879
+hour. While everyone else is trying to
+
+94
+00:03:36,879 --> 00:03:39,360
+get hired, you're going to get hired by
+
+95
+00:03:39,360 --> 00:03:41,519
+multiple companies at once. Instead of
+
+96
+00:03:41,519 --> 00:03:43,920
+hoping one company values you at $80,000
+
+97
+00:03:43,920 --> 00:03:45,760
+a year, you're going to have five
+
+98
+00:03:45,760 --> 00:03:48,080
+companies each paying you $2,000 a month
+
+99
+00:03:48,080 --> 00:03:51,040
+for ongoing work. Same money, but you're
+
+100
+00:03:51,040 --> 00:03:54,959
+in control. And that changes everything.
+
+101
+00:03:54,959 --> 00:03:56,959
+The modern freelancing reality. Now, I
+
+102
+00:03:56,959 --> 00:03:58,400
+know because the last time I did
+
+103
+00:03:58,400 --> 00:04:02,239
+freelance work was last year.
+
+104
+00:04:02,239 --> 00:04:04,000
+Re to give you a little update about my
+
+105
+00:04:04,000 --> 00:04:06,720
+life. Recently, I am working recently,
+
+106
+00:04:06,720 --> 00:04:09,280
+but not a full-time job. I'm uh helping
+
+107
+00:04:09,280 --> 00:04:12,080
+out a friend. He started his own company
+
+108
+00:04:12,080 --> 00:04:16,400
+and he got um he got some contract with
+
+109
+00:04:16,400 --> 00:04:18,959
+some government that's helping out a
+
+110
+00:04:18,959 --> 00:04:21,759
+manufacturing execution system and I'm
+
+111
+00:04:21,759 --> 00:04:25,040
+making the chatbot and it's uh it's it's
+
+112
+00:04:25,040 --> 00:04:27,759
+a challenge and I'm I'm I'm up for any
+
+113
+00:04:27,759 --> 00:04:31,440
+challenge really. Um
+
+114
+00:04:31,440 --> 00:04:33,759
+so I've made a lot of progress on that.
+
+115
+00:04:33,759 --> 00:04:36,639
+And another update, you know, uh I
+
+116
+00:04:36,639 --> 00:04:38,479
+haven't shaved since I've uh been laid
+
+117
+00:04:38,479 --> 00:04:41,120
+off, uh you know, for like the 6 to 8
+
+118
+00:04:41,120 --> 00:04:42,720
+weeks that I've been laid off. People
+
+119
+00:04:42,720 --> 00:04:44,479
+are going to come at me in the comments
+
+120
+00:04:44,479 --> 00:04:47,840
+saying things like, "He did this x years
+
+121
+00:04:47,840 --> 00:04:50,880
+ago. What he's saying won't work now, or
+
+122
+00:04:50,880 --> 00:04:52,800
+the freelance market is so much more
+
+123
+00:04:52,800 --> 00:04:55,280
+saturated now. I have mentees making
+
+124
+00:04:55,280 --> 00:04:57,440
+successful careers as freelancers right
+
+125
+00:04:57,440 --> 00:04:59,680
+now." Ultimately led to me finally
+
+126
+00:04:59,680 --> 00:05:03,840
+landing uh my first freelance job. Uh I
+
+127
+00:05:03,840 --> 00:05:06,400
+Phil made a connection uh to somebody
+
+128
+00:05:06,400 --> 00:05:09,919
+who was a ex CMO I think of IKEA which
+
+129
+00:05:09,919 --> 00:05:12,720
+was the uh website that I made for him
+
+130
+00:05:12,720 --> 00:05:14,720
+and ever since then we've kind of kept
+
+131
+00:05:14,720 --> 00:05:16,400
+open communications and anything that
+
+132
+00:05:16,400 --> 00:05:18,800
+needs for the website or maybe something
+
+133
+00:05:18,800 --> 00:05:21,039
+else he's looking at creating or even
+
+134
+00:05:21,039 --> 00:05:23,440
+some random like business solution types
+
+135
+00:05:23,440 --> 00:05:25,120
+things that another company might ask
+
+136
+00:05:25,120 --> 00:05:27,520
+him for. I've been able to dip my toe in
+
+137
+00:05:27,520 --> 00:05:30,320
+that provide some quick solutions. With
+
+138
+00:05:30,320 --> 00:05:32,720
+that in mind, let me break down how
+
+139
+00:05:32,720 --> 00:05:35,440
+freelancing actually works in 2025
+
+140
+00:05:35,440 --> 00:05:38,000
+because everything has changed. First,
+
+141
+00:05:38,000 --> 00:05:40,080
+the AI tools like Claude and Kitup
+
+142
+00:05:40,080 --> 00:05:42,080
+Copilot have cut development time in
+
+143
+00:05:42,080 --> 00:05:44,560
+half. This may sound scary, like you
+
+144
+00:05:44,560 --> 00:05:46,720
+don't stand a chance, but this is your
+
+145
+00:05:46,720 --> 00:05:49,440
+advantage. You can now deliver projects
+
+146
+00:05:49,440 --> 00:05:51,759
+twice as fast, which means you can serve
+
+147
+00:05:51,759 --> 00:05:54,160
+more clients or charge premium rates for
+
+148
+00:05:54,160 --> 00:05:56,479
+speed. I watched a senior developer
+
+149
+00:05:56,479 --> 00:05:59,039
+charge $30 an hour because he was
+
+150
+00:05:59,039 --> 00:06:02,160
+competing on time. Meanwhile, I charge
+
+151
+00:06:02,160 --> 00:06:04,560
+$2,000 for an MVP that takes me 10 hours
+
+152
+00:06:04,560 --> 00:06:07,680
+to build with AI assistance. Same work,
+
+153
+00:06:07,680 --> 00:06:10,960
+completely different framing.
+
+154
+00:06:10,960 --> 00:06:12,639
+Pillar one, solution over
+
+155
+00:06:12,639 --> 00:06:14,639
+specialization. Here's the beautiful
+
+156
+00:06:14,639 --> 00:06:17,199
+thing about freelancing. There's not so
+
+157
+00:06:17,199 --> 00:06:18,960
+much pressure on being a specialist
+
+158
+00:06:18,960 --> 00:06:21,440
+compared to the traditional job market.
+
+159
+00:06:21,440 --> 00:06:23,520
+If you can create the desired solution,
+
+160
+00:06:23,520 --> 00:06:25,759
+no one cares what language you used or
+
+161
+00:06:25,759 --> 00:06:28,080
+how your code looks. Understanding the
+
+162
+00:06:28,080 --> 00:06:29,919
+scope of work required for the solution
+
+163
+00:06:29,919 --> 00:06:32,000
+is way more important than technical
+
+164
+00:06:32,000 --> 00:06:34,160
+perfection. This means really
+
+165
+00:06:34,160 --> 00:06:36,560
+understanding your target market, what
+
+166
+00:06:36,560 --> 00:06:38,960
+problems they face, what solutions they
+
+167
+00:06:38,960 --> 00:06:41,360
+need, and how much those solutions are
+
+168
+00:06:41,360 --> 00:06:44,160
+worth to them. Pillar two, package.
+
+169
+00:06:44,160 --> 00:06:46,720
+Don't price. Stop charging hourly.
+
+170
+00:06:46,720 --> 00:06:49,039
+Instead of I charge $50 an hour for
+
+171
+00:06:49,039 --> 00:06:51,280
+development, I'll build you a complete
+
+172
+00:06:51,280 --> 00:06:54,400
+e-commerce solution for $5,000. The key
+
+173
+00:06:54,400 --> 00:06:56,639
+things to remember is that you're not
+
+174
+00:06:56,639 --> 00:06:58,720
+selling features. You're selling
+
+175
+00:06:58,720 --> 00:07:01,199
+benefits. Don't say, "I'll build you a
+
+176
+00:07:01,199 --> 00:07:02,880
+website with five pages and a contact
+
+177
+00:07:02,880 --> 00:07:05,120
+form." Say, "I'll build you a system
+
+178
+00:07:05,120 --> 00:07:07,680
+that captures leads 24/7 and converts
+
+179
+00:07:07,680 --> 00:07:09,759
+visitors into paying customers." Same
+
+180
+00:07:09,759 --> 00:07:11,520
+work, but now you're selling the
+
+181
+00:07:11,520 --> 00:07:14,880
+outcome, not the process. Pillar three,
+
+182
+00:07:14,880 --> 00:07:17,919
+underpromise overd deliver. The only way
+
+183
+00:07:17,919 --> 00:07:19,840
+to build a long-term freelance business
+
+184
+00:07:19,840 --> 00:07:22,560
+is by delivering a damn good product or
+
+185
+00:07:22,560 --> 00:07:25,360
+service. If your product is good, it'll
+
+186
+00:07:25,360 --> 00:07:27,759
+do the selling for you. You can build a
+
+187
+00:07:27,759 --> 00:07:29,680
+book of business through referrals.
+
+188
+00:07:29,680 --> 00:07:32,080
+Build social proof and eventually have
+
+189
+00:07:32,080 --> 00:07:33,919
+people come to you instead of the other
+
+190
+00:07:33,919 --> 00:07:36,800
+way around. One amazing project beats 10
+
+191
+00:07:36,800 --> 00:07:41,120
+mediocre ones every single time.
+
+192
+00:07:41,120 --> 00:07:43,840
+Step one, identify your target market,
+
+193
+00:07:43,840 --> 00:07:46,080
+especially in the beginning. It's easier
+
+194
+00:07:46,080 --> 00:07:48,080
+to serve one market since there's less
+
+195
+00:07:48,080 --> 00:07:50,000
+variability in your scope of work for
+
+196
+00:07:50,000 --> 00:07:52,240
+each project. If the first market
+
+197
+00:07:52,240 --> 00:07:54,720
+doesn't work, move to the next. Don't
+
+198
+00:07:54,720 --> 00:07:56,960
+try to be everything to everyone right
+
+199
+00:07:56,960 --> 00:08:00,960
+away. Step two, build your portfolio.
+
+200
+00:08:00,960 --> 00:08:03,039
+Just like the traditional job market,
+
+201
+00:08:03,039 --> 00:08:05,280
+you need projects to show you can do the
+
+202
+00:08:05,280 --> 00:08:07,840
+job. Build examples that directly solve
+
+203
+00:08:07,840 --> 00:08:10,479
+problems your target market faces. I've
+
+204
+00:08:10,479 --> 00:08:12,400
+mentioned this multiple times throughout
+
+205
+00:08:12,400 --> 00:08:14,800
+my other videos, but it's really that
+
+206
+00:08:14,800 --> 00:08:16,879
+simple in order to get noticed. People
+
+207
+00:08:16,879 --> 00:08:19,120
+want to visualize what you can do. Step
+
+208
+00:08:19,120 --> 00:08:22,000
+three, master selling and presenting.
+
+209
+00:08:22,000 --> 00:08:23,680
+Here's what most developers don't
+
+210
+00:08:23,680 --> 00:08:26,240
+realize. Delivering a good product isn't
+
+211
+00:08:26,240 --> 00:08:28,479
+enough on its own to build a freelancing
+
+212
+00:08:28,479 --> 00:08:31,039
+business. You need to know how to sell
+
+213
+00:08:31,039 --> 00:08:33,680
+and present your solution. Well, this is
+
+214
+00:08:33,680 --> 00:08:35,919
+a skill you have to develop, just like
+
+215
+00:08:35,919 --> 00:08:38,880
+coding. Step four, rinse and repeat.
+
+216
+00:08:38,880 --> 00:08:40,959
+Keep refining your approach until you
+
+217
+00:08:40,959 --> 00:08:43,360
+get your first couple of customers. Then
+
+218
+00:08:43,360 --> 00:08:45,440
+use those wins to build momentum for the
+
+219
+00:08:45,440 --> 00:08:48,000
+next ones.
+
+220
+00:08:48,000 --> 00:08:50,240
+It sounds simple because it is. Think
+
+221
+00:08:50,240 --> 00:08:52,240
+about it this way. A small business will
+
+222
+00:08:52,240 --> 00:08:54,640
+pay $300 to $800 monthly for digital
+
+223
+00:08:54,640 --> 00:08:57,040
+solutions, but a midsize company will
+
+224
+00:08:57,040 --> 00:08:59,600
+pay $3,000 to $8,000 monthly for the
+
+225
+00:08:59,600 --> 00:09:01,760
+same type of work because the impact is
+
+226
+00:09:01,760 --> 00:09:03,920
+proportionally bigger. Businesses need
+
+227
+00:09:03,920 --> 00:09:06,959
+ongoing projects, too. System upgrades,
+
+228
+00:09:06,959 --> 00:09:09,120
+new features, seasonal campaigns,
+
+229
+00:09:09,120 --> 00:09:11,360
+integration work. A small client is
+
+230
+00:09:11,360 --> 00:09:13,680
+worth $1 to $3,000 annually beyond
+
+231
+00:09:13,680 --> 00:09:15,839
+retainers. A bigger client would be
+
+232
+00:09:15,839 --> 00:09:18,399
+around $10 to $50,000 annually in
+
+233
+00:09:18,399 --> 00:09:20,560
+project work. I have a friend who
+
+234
+00:09:20,560 --> 00:09:23,040
+started with one pizza shop, built them
+
+235
+00:09:23,040 --> 00:09:24,800
+an ordering system that led to a
+
+236
+00:09:24,800 --> 00:09:26,560
+regional pizza chain contract worth
+
+237
+00:09:26,560 --> 00:09:29,920
+$150,000 annually. Same core skills, but
+
+238
+00:09:29,920 --> 00:09:32,320
+he learned to think bigger. That's the
+
+239
+00:09:32,320 --> 00:09:34,160
+power of starting small but scaling
+
+240
+00:09:34,160 --> 00:09:36,560
+smart.
+
+241
+00:09:36,560 --> 00:09:39,120
+Common mistakes that kill your success.
+
+242
+00:09:39,120 --> 00:09:41,920
+Mistake one, competing on price. Never
+
+243
+00:09:41,920 --> 00:09:44,560
+be the cheapest option. Be the most
+
+244
+00:09:44,560 --> 00:09:46,880
+professional, most reliable option.
+
+245
+00:09:46,880 --> 00:09:49,360
+Cheap clients are nightmare clients.
+
+246
+00:09:49,360 --> 00:09:52,480
+Mistake two, over complicating the tech.
+
+247
+00:09:52,480 --> 00:09:54,240
+They don't care if you use React or
+
+248
+00:09:54,240 --> 00:09:56,720
+vanilla JavaScript. They care if it
+
+249
+00:09:56,720 --> 00:09:59,519
+works, loads fast, and makes them money.
+
+250
+00:09:59,519 --> 00:10:01,760
+Mistake three, forgetting the business
+
+251
+00:10:01,760 --> 00:10:03,920
+side. You're spending 50% of your time
+
+252
+00:10:03,920 --> 00:10:07,040
+coding, 50% managing clients, marketing,
+
+253
+00:10:07,040 --> 00:10:09,600
+and admin. Plan for this reality or
+
+254
+00:10:09,600 --> 00:10:12,000
+you'll burn out fast. I feel like it's
+
+255
+00:10:12,000 --> 00:10:14,160
+important to reiterate that the tech job
+
+256
+00:10:14,160 --> 00:10:16,880
+market isn't actually saturated. It's
+
+257
+00:10:16,880 --> 00:10:18,959
+just broken. Companies are posting
+
+258
+00:10:18,959 --> 00:10:21,040
+impossible job requirements because they
+
+259
+00:10:21,040 --> 00:10:23,200
+don't understand what they actually
+
+260
+00:10:23,200 --> 00:10:26,079
+need. They want 3 plus years experience
+
+261
+00:10:26,079 --> 00:10:28,160
+for entry-level roles because HR
+
+262
+00:10:28,160 --> 00:10:30,720
+departments are using outdated filters
+
+263
+00:10:30,720 --> 00:10:33,839
+that made sense in 2015. But freelancing
+
+264
+00:10:33,839 --> 00:10:35,600
+gives you a different playing field
+
+265
+00:10:35,600 --> 00:10:38,079
+entirely. You're not competing with
+
+266
+00:10:38,079 --> 00:10:41,040
+1,000 other developers for one position.
+
+267
+00:10:41,040 --> 00:10:43,279
+You're the only developer talking to
+
+268
+00:10:43,279 --> 00:10:45,279
+this specific restaurant owner about
+
+269
+00:10:45,279 --> 00:10:47,680
+their specific problem. And here's the
+
+270
+00:10:47,680 --> 00:10:50,959
+beautiful part. You can do both. Keep
+
+271
+00:10:50,959 --> 00:10:52,880
+applying for jobs while building your
+
+272
+00:10:52,880 --> 00:10:55,440
+freelance income. Worst case scenario,
+
+273
+00:10:55,440 --> 00:10:57,600
+you have multiple income streams. Best
+
+274
+00:10:57,600 --> 00:10:59,920
+case scenario, your freelance income
+
+275
+00:10:59,920 --> 00:11:02,240
+becomes so good, you never need a
+
+276
+00:11:02,240 --> 00:11:04,160
+traditional job. Think about it this
+
+277
+00:11:04,160 --> 00:11:06,720
+way. Instead of hoping one company will
+
+278
+00:11:06,720 --> 00:11:09,120
+pay you $100,000 annually, you could
+
+279
+00:11:09,120 --> 00:11:12,000
+have 20 clients each paying you $500
+
+280
+00:11:12,000 --> 00:11:15,120
+monthly. That's $120,000 annually and
+
+281
+00:11:15,120 --> 00:11:17,200
+you're the boss. Why this works even
+
+282
+00:11:17,200 --> 00:11:19,360
+better now? The remote work revolution
+
+283
+00:11:19,360 --> 00:11:21,360
+made small businesses realize they don't
+
+284
+00:11:21,360 --> 00:11:23,920
+need local developers. But it also made
+
+285
+00:11:23,920 --> 00:11:26,000
+them realize most developers don't
+
+286
+00:11:26,000 --> 00:11:28,000
+understand their business. If there's
+
+287
+00:11:28,000 --> 00:11:29,680
+anything you should take away from this
+
+288
+00:11:29,680 --> 00:11:32,000
+video, it's that you're not just a
+
+289
+00:11:32,000 --> 00:11:34,480
+developer. You're a problem solver.
+
+290
+00:11:34,480 --> 00:11:36,480
+You're someone who can take a business's
+
+291
+00:11:36,480 --> 00:11:39,680
+vision and turn it into reality. Every
+
+292
+00:11:39,680 --> 00:11:42,000
+business owner I've worked with has the
+
+293
+00:11:42,000 --> 00:11:44,720
+same story. They had an idea. They
+
+294
+00:11:44,720 --> 00:11:46,880
+needed technical help and they were
+
+295
+00:11:46,880 --> 00:11:48,640
+willing to pay well for someone who
+
+296
+00:11:48,640 --> 00:11:51,120
+actually understood both the technical
+
+297
+00:11:51,120 --> 00:11:54,320
+and business sides. The tech job market
+
+298
+00:11:54,320 --> 00:11:56,720
+might be broken, but the demand for real
+
+299
+00:11:56,720 --> 00:11:59,120
+solutions has never been higher. While
+
+300
+00:11:59,120 --> 00:12:01,120
+everyone else is fighting for permission
+
+301
+00:12:01,120 --> 00:12:03,200
+to prove their worth, you can start
+
+302
+00:12:03,200 --> 00:12:06,160
+proving your worth this week. The choice
+
+303
+00:12:06,160 --> 00:12:08,560
+is yours. Keep playing the game where
+
+304
+00:12:08,560 --> 00:12:10,720
+you have no control or start playing the
+
+305
+00:12:10,720 --> 00:12:13,040
+game where you make the rules. The
+
+306
+00:12:13,040 --> 00:12:15,360
+opportunity is there. The framework
+
+307
+00:12:15,360 --> 00:12:17,920
+works. Stop waiting for someone else to
+
+308
+00:12:17,920 --> 00:12:19,760
+give you a chance and start creating
+
+309
+00:12:19,760 --> 00:12:21,839
+your own chances. If you found this
+
+310
+00:12:21,839 --> 00:12:23,760
+helpful, subscribe for more honest
+
+311
+00:12:23,760 --> 00:12:26,320
+career advice. Go build something real.
+
+312
+00:12:26,320 --> 00:12:28,399
+The market is waiting for you. Coding
+
+313
+00:12:28,399 --> 00:12:31,279
+saves lives.
